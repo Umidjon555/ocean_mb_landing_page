@@ -90,19 +90,7 @@ const Footer = () => {
 
                     </div>
 
-                    <div className="flex flex-wrap items-center md:justify-between justify-center mx-auto px-4">
-                <div className="w-full md:w-4/12 px-4 mx-auto text-center py-2">
-                    <div className="text-sm text-gray-200 font-semibold py-1">
-                    Copyright &copy; {new Date().getFullYear()}{"  "}
-                    <HashLink
-                        to="#"
-                        className=" hover:text-gray-900"
-                    >
-                        Molad e Konsult
-                    </HashLink>. All rights reserved.
-                    </div>
-                </div>
-                </div>
+                    
 
                 </div>
                 
